@@ -3,4 +3,4 @@
 Installation
 run 'python intall -requirements.txt'
 
-![profile_pic](https://user-images.githubusercontent.com/62420164/121378197-4571a680-c943-11eb-8911-573586938d30.jpg)
+![cv](https://user-images.githubusercontent.com/62420164/121379536-67b7f400-c944-11eb-94ee-4cacb07c7acb.PNG)
